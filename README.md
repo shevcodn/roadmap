@@ -15,8 +15,8 @@
 
 | # | Project | Stack | Try it | Status |
 |---|---------|-------|--------|--------|
-| 01 | [Stock Portfolio Tracker](https://github.com/shevcodn/projects) | Python · Alpha Vantage API · LinkedList · HashMap | [▶ Live demo](https://shevcodn.dev/#project-01) | ✅ Done |
-| 02 | [TradeLedger](https://github.com/shevcodn/tradeledger) | Python · Rich · Alpha Vantage · LinkedList · Heap | [▶ Live demo](https://shevcodn.dev/#project-02) | ✅ Done |
+| 01 | [Stock Portfolio Tracker](https://github.com/shevcodn/projects) | Python · Alpha Vantage API · LinkedList · HashMap | [▶ Live](https://shevcodn.dev/#project-01) | ✅ Done |
+| 02 | [TradeLedger](https://github.com/shevcodn/tradeledger) | Python · Rich · Alpha Vantage · LinkedList · Heap | [▶ Live](https://shevcodn.dev/#project-02) | ✅ Done |
 | 03 | MarketPulse | WebSockets · Redis · React | — | 🔜 p800 |
 | 04 | DeployKit | Docker · GitHub Actions · Railway | — | 🔜 p900 |
 | 05 | AuthVault | JWT · OAuth · Railway deploy | — | 🔜 p960 |
@@ -120,6 +120,10 @@ python main.py
 
 *Built during p1→p1000 Python engineering curriculum · Toronto 2026*
 
-[![Website](https://img.shields.io/badge/shevcodn.dev-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://shevcodn.dev)
+[![Website](https://img.shields.io/badge/Website-shevcodn.dev-00ff88?style=flat-square&logo=vercel&logoColor=black)](https://shevcodn.dev)
+[![GitHub](https://img.shields.io/badge/GitHub-shevcodn-00ff88?style=flat-square&logo=github&logoColor=black)](https://github.com/shevcodn)
+[![GitLab](https://img.shields.io/badge/GitLab-shevcodn-00ff88?style=flat-square&logo=gitlab&logoColor=black)](https://gitlab.com/shevcodn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-shevcodn-00ff88?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/shevcodn)
+[![LeetCode](https://img.shields.io/badge/LeetCode-shevcodn-00ff88?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/shevcodn)
 
 </div>
