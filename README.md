@@ -15,8 +15,8 @@
 
 | # | Project | Stack | Try it | Status |
 |---|---------|-------|--------|--------|
-| 01 | [Stock Portfolio Tracker](https://github.com/shevcodn/projects) | Python · Alpha Vantage API · LinkedList · HashMap | [▶ Live](https://shevcodn.dev/#project-01) | ✅ Done |
-| 02 | [TradeLedger](https://github.com/shevcodn/tradeledger) | Python · Rich · Alpha Vantage · LinkedList · Heap | [▶ Live](https://shevcodn.dev/#project-02) | ✅ Done |
+| 01 | [Stock Portfolio Tracker](https://github.com/shevcodn/projects) | Python · yfinance · Alpha Vantage · LinkedList · HashMap | [▶ Live](https://shevcodn.dev/#project-01) | ✅ Done |
+| 02 | [TradeLedger](https://github.com/shevcodn/tradeledger) | Python · Rich · yfinance · Alpha Vantage · LinkedList · Heap | [▶ Live](https://shevcodn.dev/#project-02) | ✅ Done |
 | 03 | MarketPulse | WebSockets · Redis · React | — | 🔜 p800 |
 | 04 | DeployKit | Docker · GitHub Actions · Railway | — | 🔜 p900 |
 | 05 | AuthVault | JWT · OAuth · Railway deploy | — | 🔜 p960 |
@@ -30,7 +30,7 @@
 > **Python CLI app** — track your stock portfolio in the terminal with real-time prices.
 
 ```
-Stack:   Python · Alpha Vantage API · LinkedList · HashMap
+Stack:   Python · yfinance · Alpha Vantage · LinkedList · HashMap
 Balance: $10,000 virtual
 Tickers: AAPL · NVDA · TSLA · MSFT · GOOGL · AMZN · META · AMD · NFLX
 ```
@@ -73,7 +73,7 @@ python main.py
 > **Python CLI app** — advanced trade journal with Rich UI. Track any ticker, log buy/sell, monitor P&L, set price alerts, rank top trades by profit.
 
 ```
-Stack:   Python · Rich · Alpha Vantage API · LinkedList · Heap · Binary Search
+Stack:   Python · Rich · yfinance · Alpha Vantage fallback · LinkedList · Heap · Binary Search
 Balance: $25,000 virtual
 Tickers: Any ticker (user inputs)
 Cache:   Shared with Project-01 (TTL 65 min, one API key)
